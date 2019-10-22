@@ -1,0 +1,8 @@
+c:\users\18734602-9\documents\visual studio 2010\Projects\clase 23 septiembre\clase 23 septiembre\bin\clase 23 septiembre.dll
+c:\users\18734602-9\documents\visual studio 2010\Projects\clase 23 septiembre\clase 23 septiembre\bin\clase 23 septiembre.pdb
+c:\users\18734602-9\documents\visual studio 2010\Projects\clase 23 septiembre\clase 23 septiembre\obj\Debug\clase 23 septiembre.dll
+c:\users\18734602-9\documents\visual studio 2010\Projects\clase 23 septiembre\clase 23 septiembre\obj\Debug\clase 23 septiembre.pdb
+C:\Users\Cristian\Documents\Visual Studio 2010\Projects\clase 23 septiembre\clase 23 septiembre\bin\clase 23 septiembre.dll
+C:\Users\Cristian\Documents\Visual Studio 2010\Projects\clase 23 septiembre\clase 23 septiembre\bin\clase 23 septiembre.pdb
+C:\Users\Cristian\Documents\Visual Studio 2010\Projects\clase 23 septiembre\clase 23 septiembre\obj\Debug\clase 23 septiembre.dll
+C:\Users\Cristian\Documents\Visual Studio 2010\Projects\clase 23 septiembre\clase 23 septiembre\obj\Debug\clase 23 septiembre.pdb
